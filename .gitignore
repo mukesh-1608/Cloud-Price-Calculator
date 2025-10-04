@@ -1,0 +1,27 @@
+# Node
+node_modules/
+build/
+dist/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Replit
+.replit
+replit.md
+components.json
+.local
+attached_assets/
+design_guidelines.md
